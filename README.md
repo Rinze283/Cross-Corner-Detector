@@ -1,9 +1,9 @@
 # Cross-Corner-Detector
 
+VS2022,OpenCV4.55
+
 交叉点检测算法，原理来自"Automatic Camera and Range Sensor Calibration using a single Shot"  
 Cross corner detection algorithm of "Automatic Camera and Range Sensor Calibration using a single Shot"
-
-VS2022,OpenCV4.55
 
 只检测棋盘格角点（主要是内部的交叉点）  
 Only the checkerboard corner detection(mainly for internal corner)
