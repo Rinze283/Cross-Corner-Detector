@@ -6,7 +6,7 @@ Cross corner detection algorithm of "Automatic Camera and Range Sensor Calibrati
 只检测棋盘格角点（主要是内部的交叉点）  
 Only the checkerboard corner detection(mainly for internal corner)
 
-很慢，没做加速处理
+很慢，没做加速处理  
 Slow, I didn't do the acceleration 
 
 色调越暖代表角点得分越高  
